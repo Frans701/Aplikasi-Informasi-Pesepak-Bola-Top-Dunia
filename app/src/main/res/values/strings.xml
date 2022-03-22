@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pesepak Bola Top Dunia</string>
+
+    <string-array name="nama_pemain">
+        <item>Lionel Messi</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Neymar</item>
+        <item>Kylian Mbappé</item>
+        <item>Robert Lewandowski</item>
+        <item>Luis Suárez</item>
+        <item>Mohamed Salah</item>
+        <item>Harry Kane</item>
+        <item>Karim Benzema</item>
+    </string-array>
+
+    <string-array name="tim">
+        <item>Paris Saint-Germain F.C.</item>
+        <item>Manchester United F.C.</item>
+        <item>Paris Saint-Germain F.C</item>
+        <item>Paris Saint-Germain F.C</item>
+        <item>FC Bayern München</item>
+        <item>Atlético de Madrid</item>
+        <item>Liverpool F.C.</item>
+        <item>Tottenham Hotspur F.C.</item>
+        <item>Real Madrid C.F.</item>
+    </string-array>
+</resources>
